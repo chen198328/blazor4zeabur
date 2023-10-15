@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DGwP99HjZ75LNi9G6LoNQCdwpyvveKJlZ85/MQnzWrv5wG8y/V0mmNwYLS/BvNuDoW1rD8yLNS9XXHzFB6XRiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\ProjectList\\blazor4zeabur\\blazor4zeabur\\blazor4zeabur.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512"
+  ],
+  "logs": []
+}
