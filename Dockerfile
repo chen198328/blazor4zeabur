@@ -7,7 +7,7 @@ EXPOSE 443
 
 FROM mcr.microsoft.com/dotnet/sdk:7.0 AS build
 WORKDIR /src
-COPY ["blazor4zeabur.csproj", "blazor4zeabur/"]
+COPY ["blazor4zeabur/blazor4zeabur.csproj", "blazor4zeabur/"]
 RUN dotnet restore "blazor4zeabur/blazor4zeabur.csproj"
 COPY . .
 WORKDIR "/src/blazor4zeabur"
